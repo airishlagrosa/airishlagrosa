@@ -8,10 +8,13 @@ I am a 4th-year student pursuing a degree in Information Technology. As an aspir
 💻 Learning UI/UX for better user experiences
 
 
+
 🎯 Goals
   - Improve **UI/UX design** skills to craft intuitive user interfaces
+
 🚀 Skills
   - Beginner in python
+
 📬 Contact
   - Email: llamosorish@gmail.com
 
