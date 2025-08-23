@@ -2,10 +2,9 @@
 
 <div align="center">
   
-I am a 4th-year student pursuing a degree in Information Technology.
-As an aspiring developer, I am passionate about building practical projects that combine functionality with good design.  
-Currently, I am focused on strengthening my skills in Python, SQL, Flask, and UI/UX design to prepare for professional opportunities in software development.  
+I am a 4th-year student pursuing a degree in Information Technology. As an aspiring developer, I am passionate about building practical projects that combine functionality with good design. Currently, I am focused on strengthening my skills in Python, SQL, Flask, and UI/UX design to prepare for professional opportunities in software development.  
 
+</div>
 💻 Learning UI/UX for better user experiences
   
 🎯 Goals
@@ -17,4 +16,4 @@ Currently, I am focused on strengthening my skills in Python, SQL, Flask, and UI
 📬 Contact
   - Email: llamosorish@gmail.com
 
-</div>
+
