@@ -1,21 +1,30 @@
 ## Hi there 👋 I am Airish Lagrosa
 
 <div align="center">
-  
-I am a 4th-year student pursuing a degree in Information Technology. As an aspiring developer, I am passionate about building practical projects that combine functionality with good design. Currently, I am focused on strengthening my skills in Python, SQL, Flask, and UI/UX design to prepare for professional opportunities in software development.  
+
+I’m currently a 4th-year student who’s passionate about technology and always curious about how things work behind the scenes. I enjoy exploring different areas of software development and creating simple projects that help me grow as a developer.
 
 </div>
 💻 Learning UI/UX for better user experiences
 
-
-
 🎯 Goals
-  - Improve **UI/UX design** skills to craft intuitive user interfaces
+Right now, I’m focused on learning and practicing:
+- Python for problem-solving  
+- SQL for handling data  
+- Flask for building web apps  
+- Basic UI/UX design to make projects more user-friendly
+
+My goal is to keep improving step by step while working on projects that combine what I’ve learned.
 
 🚀 Skills
-  - Beginner in python
+I’m still at the beginner level, but I have some knowledge of:
+- **Python**  
+- **SQL**  
+- **Flask**  
+- Basic UI/UX Design  
 
 📬 Contact
+Feel free to connect with me
   - Email: llamosorish@gmail.com
 
 
